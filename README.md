@@ -19,8 +19,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Install Web Platefoam Installer
+- Install My Sequel / Setup Usernames and Passwords
+- Install C++ Redistributable
+- Configure Permissions and Install OsTicket
 - Azure Virtual Machine
 - Internet Information Services (IIS)
+- Enable Internet Information Services (IIS)
 - PHP Manager
 - Rewrite Module
 - VC Redist
