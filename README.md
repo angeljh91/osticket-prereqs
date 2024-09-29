@@ -29,3 +29,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/76a01076-1603-4974-8c8d-7137f2c68fa0)
 IIS is a flexible, secure web server software and is primarily used to host and serve web applications, websites as well as supports various protocols allowing deployment of ASP.NET applcations and static content. The picture above demonstrates me installing IIS on Windows Machine.
+
+![image](https://github.com/user-attachments/assets/c2020d28-20f6-4e3e-b1d9-f146e3209bec)
+A valuable tool for developers and administrators, the rewrite manager in IIS is used for URL rewriting, SEO optimization, rule configuration and managing redirects. Here is a demonstration of me downloading and installing manager on Windows Machine.
+
+![image](https://github.com/user-attachments/assets/67864ce8-3949-4ca9-9132-616fc1011367)
+Download and install MySQL 5.5.62 from the installation files. Launch the configuration wizard after the installation. Ensure that you select standard configuration and the then select install as window Service. Must ensure that launch the MySQL server is checked. Now we will put in our credenitals. 
