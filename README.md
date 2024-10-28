@@ -42,7 +42,7 @@ Download and install MySQL 5.5.62 from the installation files. Launch the config
 
 ![image](https://github.com/user-attachments/assets/2c42eab5-5751-446d-97da-22339d94b322)
 
-We will need to download and install HeidiSQL from the installation files and create new session utilizing the given password and username. Once connected we will go back to browser and finsh setting up. Under the database settings within the browser, we will utilize given username and password.
+We will need to download and install HeidiSQL from the installation files and create new session. Once connected we will go back to browser and finsh setting up. Under the database settings within the browser, we will utilize given username and password.
 
 Now creating a new database in HeidiSQL. Right click where it says "unnamed", select "create new" then select "database". Name this database "osTicket." We will then go back to osTicket browser and type in osTicket under the MySQL database. 
 
