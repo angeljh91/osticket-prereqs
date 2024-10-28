@@ -37,7 +37,7 @@ A valuable tool for developers and administrators, the rewrite manager in IIS is
 
 ![image](https://github.com/user-attachments/assets/67864ce8-3949-4ca9-9132-616fc1011367)
 
-Download and install MySQL 5.5.62 from the installation files. Launch the configuration wizard after the installation. Ensure that you select standard configuration and the then select install as window Service. Must ensure that launch the MySQL server is checked. Now we will put in our credenitals. In a practical setting, the credentials will be basic to where they can be easily retrieved.
+Download and install MySQL 5.5.62 from the installation files. Launch the configuration wizard after the installation. Ensure that you select standard configuration and the then select install as window Service. Must ensure that launch the MySQL server is checked. Now we will put in our credenitals. In a practical setting.
 
 ![image](https://github.com/user-attachments/assets/2c42eab5-5751-446d-97da-22339d94b322)
 
